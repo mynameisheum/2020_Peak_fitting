@@ -12,6 +12,7 @@
 
 ### 기본 아이디어
 - receptive field 역할을 갖는 Convolution neural network을 이용하면 각각의 peak을 구분할수 있지 않을까?
+![xps ex2](https://github.com/mynameisheum/2020_Peak_fitting/blob/main/make%20Train%20data%20code/ex_picture_storage/xps%20ex2.png?raw=true)
 
 ### 느낀점
 -데이터를 밀어넣는 방법엔 한계가 있다.
