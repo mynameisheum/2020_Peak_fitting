@@ -1,5 +1,5 @@
 # 2020_Peak_fitting
-###Deep Learning Applied to Peak Fitting of Spectroscopic Data in Frequency Domain
+### Deep Learning Applied to Peak Fitting of Spectroscopic Data in Frequency Domain
 -(https://www.npsm-kps.org/journal/view.html?doi=10.3938/NPSM.70.920)(NPSM,새물리)
 
 ### XPS 배경 지식
