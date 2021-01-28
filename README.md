@@ -1,6 +1,8 @@
 # 2020_Peak_fitting
 -Deep Learning Applied to Peak Fitting of Spectroscopic Data in Frequency Domain
--(https://www.npsm-kps.org/journal/view.html?doi=10.3938/NPSM.70.920)(NPSM,새물리)
+-(https://www.npsm-kps.org/journal/view.html?doi=10.3938/NPSM.70.920)
+-(NPSM,새물리)
+
 ### XPS 배경 지식
 - x선을 통해 시료에서 광전효과로 인해 나오는 전자의 운동에너지를 분석
 - 이는 x축을 Binding Energy, y축을 intensity로 여러가지 peak이 섞인 그래프로 표현
