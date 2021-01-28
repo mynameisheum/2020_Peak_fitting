@@ -11,7 +11,7 @@
 - 기존 선행연구에서는 직접 peak를 선행적 경험에 의해 fitting하거나 area, Threshold 값등, 다양한 parameter를 필요로 했는데 neural network를 통해 단순히 데이터만으로도 peak들을 예측할수 있을까? 
 
 ### 기본 아이디어
-- receptive field 역할을 갖는 Convolution neural network을 이용하면 peak의 구분이 가능하지 않을까?
+- receptive field 역할을 갖는 Convolution neural network을 이용하면 각각의 peak을 구분할수 있지 않을까?
 
 ### 느낀점
 -데이터를 밀어넣는 방법엔 한계가 있다.
